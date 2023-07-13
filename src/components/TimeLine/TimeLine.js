@@ -42,9 +42,9 @@ const Timeline = () => {
 
   return (
     <Section id="about">
-      <SectionTitle>About me</SectionTitle>
+      <SectionTitle>Haqqımda</SectionTitle>
       <SectionText>
-      My main goal as a programmer is to create a high-quality, functional, seamless program that takes into account all the needs of the client and achieves maximum convenience in interaction for users.
+      Bir proqramçı kimi əsas məqsədim müştərinin bütün ehtiyaclarını nəzərə alan və istifadəçilər üçün qarşılıqlı əlaqədə maksimum rahatlığa nail olan yüksək keyfiyyətli, funksional, qüsursuz proqram yaratmaqdır.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
