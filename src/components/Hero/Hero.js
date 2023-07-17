@@ -9,11 +9,11 @@ const Hero = (props) => (
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-        Şəxsi portfolioma <br />
-        xoş gəlmisiniz
+        Welcome to my <br />
+        personal portfolio
         </SectionTitle>
         <SectionText>
-        Bir proqramçı kimi əsas məqsədim müştərinin bütün ehtiyaclarını nəzərə alan və istifadəçilər üçün qarşılıqlı əlaqədə maksimum rahatlığa nail olan yüksək keyfiyyətli, funksional, qüsursuz proqram yaratmaqdır. 
+        My main goal as a programmer is to create a high-quality, functional, seamless program that takes into account all the needs of the client and achieves maximum convenience in interaction for users. 
         </SectionText>
       </LeftSection>
     </Section>
