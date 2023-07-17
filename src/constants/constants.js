@@ -83,10 +83,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'After being admitted to the Computer Engineering major of the Information Technologies and Management faculty of Azerbaijan State Oil and Industry University, I started programming.', },
-  { year: 2018, text: 'I took a programming course at Compar Academy, and after finishing the course, I did an internship there as a mentor for a year.', },
-  { year: 2019, text: 'I started working as a graphic and UX/UI designer at Maffin Agency.', },
-  { year: 2020, text: 'I started working as a UX/UI designer and Front-end developer at Flex Agency.', },
-  { year: 2021, text: 'I was admitted to the Computer Science (SABAH) major of the Faculty of Applied Mathematics and Cybernetics of Baku State University and was awarded a master`s degree with honors in 2023.', },
-  { year: 2023, text: 'I started as a front-end developer at Pinghome development.', }
+  { year: 2017, text: 'Azərbaycan Dövlət Neft və Sənaye Universitetinin İnformasiya Texnologiyaları və İdarəetmə fakültəsinin Kompüter Mühəndisliyi ixtisasına qəbul olduqdan sonra proqramlaşdırma ilə məşğul olmağa başladım.', },
+  { year: 2018, text: 'Compar Academy - də proqramlaşdırma kursu keçdim və kursu bitirdikdən sonra bir il orada mentor kimi təcrübə keçdim.', },
+  { year: 2019, text: 'Maffin Agency - də qrafik və UX/UI dizayner kimi çalışmağa başladım.', },
+  { year: 2020, text: 'Flex Agency - də UX/UI dizayner və Front-end developer kimi fəaliyyətə başladım.', },
+  { year: 2021, text: 'Bakı Dövlət Universitetinin Tətbiqi Riyaziyyat və Kibernetika fakültəsinin Kompüter Elmləri (SABAH) ixtisasına qəbul oldum və 2023-cü ildə fərqlənmə ilə magistr dərəcəsinə layiq görüldüm.', },
+  { year: 2023, text: 'Pinghome-da front-end developer kimi işə başladım.', }
 ];
